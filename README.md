@@ -1,2 +1,2 @@
-# project-model
+# project-model for everything
 hello
