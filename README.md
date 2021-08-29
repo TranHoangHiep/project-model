@@ -3,4 +3,6 @@ hello
 
 hello from master
 
+hello 2 from master
+
 hello from issue1
