@@ -11,6 +11,8 @@ hello 4 from master
 
 hello 5 from master
 
+hello 6 from master
+
 hello from issue1
 
 hello 2 from issue1
